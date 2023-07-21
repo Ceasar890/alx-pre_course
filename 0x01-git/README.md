@@ -1,1 +1,1 @@
-Alx is cool
+Starting to code today, so cool
